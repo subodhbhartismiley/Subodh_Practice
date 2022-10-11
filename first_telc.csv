@@ -65,13 +65,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-62c22af2c740.js"></script>
   
 
-  <title>MLProject-ChurnPrediction/README.md at main · pik1989/MLProject-ChurnPrediction · GitHub</title>
+  <title>MLProject-ChurnPrediction/first_telc.csv at main · pik1989/MLProject-ChurnPrediction · GitHub</title>
 
 
 
     
 
-  <meta name="request-id" content="CF9D:4E93:34BD1F:4B00AB:633966EA" data-pjax-transient="true"/><meta name="html-safe-nonce" content="692e3d36afb66fb0397da48f76d3cfab583a3a499b93d3c7f39b8e7a2d4c15d1" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDRjlEOjRFOTM6MzRCRDFGOjRCMDBBQjo2MzM5NjZFQSIsInZpc2l0b3JfaWQiOiI2OTQ0MTQwMDIzOTAxNTQ2MjE4IiwicmVnaW9uX2VkZ2UiOiJjZW50cmFsaW5kaWEiLCJyZWdpb25fcmVuZGVyIjoiY2VudHJhbGluZGlhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="87696ccf1b9d5b837685204cec69479e5ae4a2e93d252ea2de18e605e56f2b26" data-pjax-transient="true"/>
+  <meta name="request-id" content="CF6B:3F37:62C7BB:793D90:63396683" data-pjax-transient="true"/><meta name="html-safe-nonce" content="0818acf10b66718d18a558e8d5635e25aea30269ffad133df7e942b3647a7fc9" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDRjZCOjNGMzc6NjJDN0JCOjc5M0Q5MDo2MzM5NjY4MyIsInZpc2l0b3JfaWQiOiI3NTU0MDAwNzYxMTgxMDA1NDQzIiwicmVnaW9uX2VkZ2UiOiJjZW50cmFsaW5kaWEiLCJyZWdpb25fcmVuZGVyIjoiY2VudHJhbGluZGlhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="cfa909654b0ebc8b5dfeea77c918b39d5d956b6e980c85d2eea4541ea49b07ee" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:326607132" data-turbo-transient>
 
@@ -109,8 +109,8 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/072963367e16d4aa445db5b703408768d6164733dc01d942edd19bf2029f95a5/pik1989/MLProject-ChurnPrediction" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="MLProject-ChurnPrediction/README.md at main · pik1989/MLProject-ChurnPrediction" /><meta name="twitter:description" content="Contribute to pik1989/MLProject-ChurnPrediction development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/072963367e16d4aa445db5b703408768d6164733dc01d942edd19bf2029f95a5/pik1989/MLProject-ChurnPrediction" /><meta property="og:image:alt" content="Contribute to pik1989/MLProject-ChurnPrediction development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="MLProject-ChurnPrediction/README.md at main · pik1989/MLProject-ChurnPrediction" /><meta property="og:url" content="https://github.com/pik1989/MLProject-ChurnPrediction" /><meta property="og:description" content="Contribute to pik1989/MLProject-ChurnPrediction development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/072963367e16d4aa445db5b703408768d6164733dc01d942edd19bf2029f95a5/pik1989/MLProject-ChurnPrediction" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="MLProject-ChurnPrediction/first_telc.csv at main · pik1989/MLProject-ChurnPrediction" /><meta name="twitter:description" content="Contribute to pik1989/MLProject-ChurnPrediction development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/072963367e16d4aa445db5b703408768d6164733dc01d942edd19bf2029f95a5/pik1989/MLProject-ChurnPrediction" /><meta property="og:image:alt" content="Contribute to pik1989/MLProject-ChurnPrediction development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="MLProject-ChurnPrediction/first_telc.csv at main · pik1989/MLProject-ChurnPrediction" /><meta property="og:url" content="https://github.com/pik1989/MLProject-ChurnPrediction" /><meta property="og:description" content="Contribute to pik1989/MLProject-ChurnPrediction development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
 
@@ -138,7 +138,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-out env-production page-responsive page-blob">
 
 
@@ -191,7 +191,7 @@
         <div class="flex-1">
           <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
             class="d-inline-block d-lg-none flex-order-1 f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b863d8cc9f66ef24e1957601451b58550656b7309ee84856e2216147ce3f57d5"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="de930d643363fcac9b817a750aa6252e393fb76f9edbf83ae712cbb30db4b117"
           >
             Sign&nbsp;up
           </a>
@@ -223,7 +223,7 @@
         <ul class="list-style-none f5 px-lg-4 border-lg-right mb-4 mb-lg-0 pr-lg-7">
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Actions;&quot;}" href="/features/actions">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Actions;&quot;}" href="/features/actions">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-workflow color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M1 3a2 2 0 012-2h6.5a2 2 0 012 2v6.5a2 2 0 01-2 2H7v4.063C7 16.355 7.644 17 8.438 17H12.5v-2.5a2 2 0 012-2H21a2 2 0 012 2V21a2 2 0 01-2 2h-6.5a2 2 0 01-2-2v-2.5H8.437A2.938 2.938 0 015.5 15.562V11.5H3a2 2 0 01-2-2V3zm2-.5a.5.5 0 00-.5.5v6.5a.5.5 0 00.5.5h6.5a.5.5 0 00.5-.5V3a.5.5 0 00-.5-.5H3zM14.5 14a.5.5 0 00-.5.5V21a.5.5 0 00.5.5H21a.5.5 0 00.5-.5v-6.5a.5.5 0 00-.5-.5h-6.5z"></path>
 </svg>
@@ -236,7 +236,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Packages;&quot;}" href="/features/packages">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Packages;&quot;}" href="/features/packages">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-package color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M12.876.64a1.75 1.75 0 00-1.75 0l-8.25 4.762a1.75 1.75 0 00-.875 1.515v9.525c0 .625.334 1.203.875 1.515l8.25 4.763a1.75 1.75 0 001.75 0l8.25-4.762a1.75 1.75 0 00.875-1.516V6.917a1.75 1.75 0 00-.875-1.515L12.876.639zm-1 1.298a.25.25 0 01.25 0l7.625 4.402-7.75 4.474-7.75-4.474 7.625-4.402zM3.501 7.64v8.803c0 .09.048.172.125.216l7.625 4.402v-8.947L3.501 7.64zm9.25 13.421l7.625-4.402a.25.25 0 00.125-.216V7.639l-7.75 4.474v8.947z"></path>
 </svg>
@@ -249,7 +249,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Security;&quot;}" href="/features/security">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Security;&quot;}" href="/features/security">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-shield-check color-fg-subtle mr-3">
     <path d="M16.53 9.78a.75.75 0 00-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 00-1.06 1.06l2.5 2.5a.75.75 0 001.06 0l5-5z"></path><path fill-rule="evenodd" d="M12.54.637a1.75 1.75 0 00-1.08 0L3.21 3.312A1.75 1.75 0 002 4.976V10c0 6.19 3.77 10.705 9.401 12.83.386.145.812.145 1.198 0C18.229 20.704 22 16.19 22 10V4.976c0-.759-.49-1.43-1.21-1.664L12.54.637zm-.617 1.426a.25.25 0 01.154 0l8.25 2.676a.25.25 0 01.173.237V10c0 5.461-3.28 9.483-8.43 11.426a.2.2 0 01-.14 0C6.78 19.483 3.5 15.46 3.5 10V4.976c0-.108.069-.203.173-.237l8.25-2.676z"></path>
 </svg>
@@ -262,7 +262,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-codespaces color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M3.5 3.75C3.5 2.784 4.284 2 5.25 2h13.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0118.75 13H5.25a1.75 1.75 0 01-1.75-1.75v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h13.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H5.25zM1.5 15.75c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v4a1.75 1.75 0 01-1.75 1.75H3.25a1.75 1.75 0 01-1.75-1.75v-4zm1.75-.25a.25.25 0 00-.25.25v4c0 .138.112.25.25.25h17.5a.25.25 0 00.25-.25v-4a.25.25 0 00-.25-.25H3.25z"></path><path fill-rule="evenodd" d="M10 17.75a.75.75 0 01.75-.75h6.5a.75.75 0 010 1.5h-6.5a.75.75 0 01-.75-.75zm-4 0a.75.75 0 01.75-.75h.5a.75.75 0 010 1.5h-.5a.75.75 0 01-.75-.75z"></path>
 </svg>
@@ -275,7 +275,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Copilot&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Copilot;&quot;}" href="/features/copilot">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Copilot&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Copilot;&quot;}" href="/features/copilot">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-copilot color-fg-subtle mr-3">
     <path d="M9.75 14a.75.75 0 01.75.75v2.5a.75.75 0 01-1.5 0v-2.5a.75.75 0 01.75-.75zm4.5 0a.75.75 0 01.75.75v2.5a.75.75 0 01-1.5 0v-2.5a.75.75 0 01.75-.75z"></path><path fill-rule="evenodd" d="M12 2c-2.214 0-4.248.657-5.747 1.756a7.43 7.43 0 00-.397.312c-.584.235-1.077.546-1.474.952-.85.87-1.132 2.037-1.132 3.368 0 .368.014.733.052 1.086l-.633 1.478-.043.022A4.75 4.75 0 000 15.222v1.028c0 .529.31.987.564 1.293.28.336.637.653.967.918a13.262 13.262 0 001.299.911l.024.015.006.004.04.025.144.087c.124.073.304.177.535.3.46.245 1.122.57 1.942.894C7.155 21.344 9.439 22 12 22s4.845-.656 6.48-1.303c.819-.324 1.481-.65 1.941-.895a13.797 13.797 0 00.68-.386l.039-.025.006-.004.024-.015a8.829 8.829 0 00.387-.248c.245-.164.577-.396.912-.663.33-.265.686-.582.966-.918.256-.306.565-.764.565-1.293v-1.028a4.75 4.75 0 00-2.626-4.248l-.043-.022-.633-1.478c.038-.353.052-.718.052-1.086 0-1.331-.282-2.499-1.132-3.368-.397-.406-.89-.717-1.474-.952a7.386 7.386 0 00-.397-.312C16.248 2.657 14.214 2 12 2zm-8 9.654l.038-.09c.046.06.094.12.145.177.793.9 2.057 1.259 3.782 1.259 1.59 0 2.739-.544 3.508-1.492.131-.161.249-.331.355-.508a32.948 32.948 0 00.344 0c.106.177.224.347.355.508.77.948 1.918 1.492 3.508 1.492 1.725 0 2.989-.359 3.782-1.259.05-.057.099-.116.145-.177l.038.09v6.669a17.618 17.618 0 01-2.073.98C16.405 19.906 14.314 20.5 12 20.5c-2.314 0-4.405-.594-5.927-1.197A17.62 17.62 0 014 18.323v-6.67zm6.309-1.092a2.35 2.35 0 01-.38.374c-.437.341-1.054.564-1.964.564-1.573 0-2.292-.337-2.657-.75-.192-.218-.331-.506-.423-.89-.091-.385-.135-.867-.135-1.472 0-1.14.243-1.847.705-2.32.477-.487 1.319-.861 2.824-1.024 1.487-.16 2.192.138 2.533.529l.008.01c.264.308.429.806.43 1.568v.031a7.203 7.203 0 01-.09 1.079c-.143.967-.406 1.754-.851 2.301zm2.504-2.497a7.174 7.174 0 01-.063-.894v-.02c.001-.77.17-1.27.438-1.578.341-.39 1.046-.69 2.533-.529 1.506.163 2.347.537 2.824 1.025.462.472.705 1.179.705 2.319 0 1.21-.174 1.926-.558 2.361-.365.414-1.084.751-2.657.751-1.21 0-1.902-.393-2.344-.938-.475-.584-.742-1.44-.878-2.497z"></path>
 </svg>
@@ -288,7 +288,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Code review;&quot;}" href="/features/code-review">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Code review;&quot;}" href="/features/code-review">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-code-review color-fg-subtle mr-3">
     <path d="M10.3 6.74a.75.75 0 01-.04 1.06l-2.908 2.7 2.908 2.7a.75.75 0 11-1.02 1.1l-3.5-3.25a.75.75 0 010-1.1l3.5-3.25a.75.75 0 011.06.04zm3.44 1.06a.75.75 0 111.02-1.1l3.5 3.25a.75.75 0 010 1.1l-3.5 3.25a.75.75 0 11-1.02-1.1l2.908-2.7-2.908-2.7z"></path><path fill-rule="evenodd" d="M1.5 4.25c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v12.5a1.75 1.75 0 01-1.75 1.75h-9.69l-3.573 3.573A1.457 1.457 0 015 21.043V18.5H3.25a1.75 1.75 0 01-1.75-1.75V4.25zM3.25 4a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h2.5a.75.75 0 01.75.75v3.19l3.72-3.72a.75.75 0 01.53-.22h10a.25.25 0 00.25-.25V4.25a.25.25 0 00-.25-.25H3.25z"></path>
 </svg>
@@ -301,7 +301,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Issues;&quot;}" href="/features/issues">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Issues;&quot;}" href="/features/issues">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-issue-opened color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M2.5 12a9.5 9.5 0 1119 0 9.5 9.5 0 01-19 0zM12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zm0 13a2 2 0 100-4 2 2 0 000 4z"></path>
 </svg>
@@ -314,7 +314,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Discussions&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Discussions;&quot;}" href="/features/discussions">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Discussions&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Discussions;&quot;}" href="/features/discussions">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-comment-discussion color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M1.75 1A1.75 1.75 0 000 2.75v9.5C0 13.216.784 14 1.75 14H3v1.543a1.457 1.457 0 002.487 1.03L8.061 14h6.189A1.75 1.75 0 0016 12.25v-9.5A1.75 1.75 0 0014.25 1H1.75zM1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v9.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 15.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-9.5z"></path><path d="M22.5 8.75a.25.25 0 00-.25-.25h-3.5a.75.75 0 010-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0122.25 20H21v1.543a1.457 1.457 0 01-2.487 1.03L15.939 20H10.75A1.75 1.75 0 019 18.25v-1.465a.75.75 0 011.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 01.53.22l2.72 2.72v-2.19a.75.75 0 01.75-.75h2a.25.25 0 00.25-.25v-9.5z"></path>
 </svg>
@@ -331,14 +331,14 @@
             <li class="h4 color-fg-default my-1">Explore</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to All features&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:All features;&quot;}" href="/features">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to All features&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:All features;&quot;}" href="/features">
       All features
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Documentation&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Documentation;&quot;}" href="https://docs.github.com">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Documentation&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Documentation;&quot;}" href="https://docs.github.com">
       Documentation
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -347,7 +347,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Skills&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:GitHub Skills;&quot;}" href="https://skills.github.com/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Skills&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:GitHub Skills;&quot;}" href="https://skills.github.com/">
       GitHub Skills
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -356,7 +356,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Blog&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Blog;&quot;}" href="https://github.blog">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Blog&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Blog;&quot;}" href="https://github.blog">
       Blog
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -381,21 +381,21 @@
             <li class="h4 color-fg-default my-1">By Plan</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Enterprise;&quot;}" href="/enterprise">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Enterprise;&quot;}" href="/enterprise">
       Enterprise
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Teams&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Teams;&quot;}" href="/team">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Teams&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Teams;&quot;}" href="/team">
       Teams
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Compare all&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Compare all;&quot;}" href="/pricing#compare-features">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Compare all&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Compare all;&quot;}" href="/pricing#compare-features">
       Compare all
 
     
@@ -406,7 +406,7 @@
             <li class="h4 color-fg-default my-1">By Solution</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to CI/CD &amp;amp; Automation&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:CI/CD &amp;amp; Automation;&quot;}" href="https://resources.github.com/ci-cd/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to CI/CD &amp;amp; Automation&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:CI/CD &amp;amp; Automation;&quot;}" href="https://resources.github.com/ci-cd/">
       CI/CD &amp; Automation
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -415,7 +415,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevOps&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:DevOps;&quot;}" href="https://resources.github.com/devops/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevOps&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:DevOps;&quot;}" href="https://resources.github.com/devops/">
       DevOps
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -424,7 +424,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevSecOps&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:DevSecOps;&quot;}" href="https://resources.github.com/devops/fundamentals/devsecops/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevSecOps&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:DevSecOps;&quot;}" href="https://resources.github.com/devops/fundamentals/devsecops/">
       DevSecOps
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -437,14 +437,14 @@
             <li class="h4 color-fg-default my-1">Case Studies</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Customer Stories&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Customer Stories;&quot;}" href="/customer-stories">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Customer Stories&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Customer Stories;&quot;}" href="/customer-stories">
       Customer Stories
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Resources&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Resources;&quot;}" href="https://resources.github.com/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Resources&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Resources;&quot;}" href="https://resources.github.com/">
       Resources
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -468,7 +468,7 @@
         <ul class="list-style-none f5 border-bottom pb-3 mb-3">
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
       
       <div>
         <div class="color-fg-default h4">GitHub Sponsors</div>
@@ -482,7 +482,7 @@
         <ul class="list-style-none f5 border-bottom pb-3 mb-3">
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:The ReadME Project;&quot;}" href="/readme">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:The ReadME Project;&quot;}" href="/readme">
       
       <div>
         <div class="color-fg-default h4">The ReadME Project</div>
@@ -497,21 +497,21 @@
             <li class="h4 color-fg-default my-1">Repositories</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Topics;&quot;}" href="/topics">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Topics;&quot;}" href="/topics">
       Topics
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Trending;&quot;}" href="/trending">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Trending;&quot;}" href="/trending">
       Trending
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Collections;&quot;}" href="/collections">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Collections;&quot;}" href="/collections">
       Collections
 
     
@@ -523,7 +523,7 @@
 
 
                 <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
-    <a class="HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Pricing&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/README.md;ref_cta:Pricing;&quot;}" href="/pricing">Pricing</a>
+    <a class="HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Pricing&quot;,&quot;label&quot;:&quot;ref_page:/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv;ref_cta:Pricing;&quot;}" href="/pricing">Pricing</a>
 </li>
 
             </ul>
@@ -559,7 +559,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="SAuV3xwgMdnuM3M4mBKe0PVN6sezBPKyjPdn5pnw4hciU2NzX8bHIsP1/VRKPX9fS9/g4dMygP4cWAJXqhsRtw==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="K+iBBmU4qzPqzHdeSHrWXp9+q9RhIiyx7vAHCfXxb95ZnRpTn9OHqiStsvDIRhYLiDvtzH1XiNBYNS3eMsGabg==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -739,9 +739,9 @@
             </div>
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
-            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fpik1989%2FMLProject-ChurnPrediction%2Fblob%2Fmain%2FREADME.md"
+            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fpik1989%2FMLProject-ChurnPrediction%2Fblob%2Fmain%2Ffirst_telc.csv"
               class="HeaderMenu-link HeaderMenu-link--sign-in flex-shrink-0 no-underline d-block d-lg-inline-block border border-lg-0 rounded rounded-lg-0 p-2 p-lg-0"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d1a566ffcfa3506c94e500f6db35b1a4fb9e784d7c331adc7e348fd3cb29100d"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e1555c5e0f24f6086737ce42e78e26261372c2690c19a1ecca5c0e5425f76bdb"
               data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
               Sign in
             </a>
@@ -749,7 +749,7 @@
 
             <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=pik1989%2FMLProject-ChurnPrediction"
               class="HeaderMenu-link HeaderMenu-link--sign-up flex-shrink-0 d-none d-lg-inline-block no-underline border color-border-default rounded px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d1a566ffcfa3506c94e500f6db35b1a4fb9e784d7c331adc7e348fd3cb29100d"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e1555c5e0f24f6086737ce42e78e26261372c2690c19a1ecca5c0e5425f76bdb"
               data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
             >
               Sign up
@@ -849,14 +849,14 @@
       
 
   <li>
-          <a href="/login?return_to=%2Fpik1989%2FMLProject-ChurnPrediction" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7b05aa0ff01d9eea357e0d873b890d3f80d15ce18771a9b6477884ec8e990fbf" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+          <a href="/login?return_to=%2Fpik1989%2FMLProject-ChurnPrediction" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8af3f30cb10ec3d185b652aade725ba718d37781cac160b536a30d6ae54784aa" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
 </svg>Notifications
 </a>
   </li>
 
   <li>
-          <a icon="repo-forked" href="/login?return_to=%2Fpik1989%2FMLProject-ChurnPrediction" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:326607132,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="da63909518cddd639cffbcf183ef8183c27249015e14667ca64d81922ae0c6b3" aria-label="You must be signed in to fork a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+          <a icon="repo-forked" href="/login?return_to=%2Fpik1989%2FMLProject-ChurnPrediction" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:326607132,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d158a8dc37540dee724a58f95eb9e328f76d0554099ac2a09cbfaa79906e4363" aria-label="You must be signed in to fork a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
     <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="73" data-view-component="true" class="Counter">73</span>
@@ -865,7 +865,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2Fpik1989%2FMLProject-ChurnPrediction" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:326607132,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="31de60f6c00857632f3456865acb20c0d9162e78cb738b26026fd06e47947ec2" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+        <a href="/login?return_to=%2Fpik1989%2FMLProject-ChurnPrediction" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:326607132,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a39385b724f91a39ae55a78b7c745a65b46e5b69a0e3492f838a7bca8dc03b16" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1043,7 +1043,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/pik1989/MLProject-ChurnPrediction/blob/c328697e9c8df658b8a965379ce54185e4384745/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/pik1989/MLProject-ChurnPrediction/blob/c328697e9c8df658b8a965379ce54185e4384745/first_telc.csv">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1051,7 +1051,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:326607132,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5e6f9872266e72cbe5487b5fbe5f1a84b82a914829346d971bbc8d6fdc7b8146">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:326607132,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="546bb8588367c583a55afcd7c8388c5a6bb0278729170e41dcfa8f17b45375a3">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -1130,7 +1130,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/pik1989/MLProject-ChurnPrediction/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/pik1989/MLProject-ChurnPrediction/blob/{{ urlEncodedRefName }}/first_telc.csv" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1170,7 +1170,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/pik1989/MLProject-ChurnPrediction/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/pik1989/MLProject-ChurnPrediction/blob/{{ urlEncodedRefName }}/first_telc.csv" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1201,7 +1201,7 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/pik1989/MLProject-ChurnPrediction"><span>MLProject-ChurnPrediction</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/pik1989/MLProject-ChurnPrediction"><span>MLProject-ChurnPrediction</span></a></span></span><span class="separator">/</span><strong class="final-path">first_telc.csv</strong>
   </h2>
     <a href="/pik1989/MLProject-ChurnPrediction/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -1212,7 +1212,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:326607132,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8bd622f3b630822fb72304716b1e652687cf530047ea7c1d3434f858a341b1a0" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/pik1989/MLProject-ChurnPrediction/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:326607132,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/first_telc.csv&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="df7e7eb571232a9e79b32772fbef6d5f3f12b1d27dc356fbb2dc6b4ec9eaefa7" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/pik1989/MLProject-ChurnPrediction/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -1224,13 +1224,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="first_telc.csv" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/pik1989/MLProject-ChurnPrediction/blob/c328697e9c8df658b8a965379ce54185e4384745/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/pik1989/MLProject-ChurnPrediction/blob/c328697e9c8df658b8a965379ce54185e4384745/first_telc.csv" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1262,174 +1262,53 @@
     <include-fragment src="/pik1989/MLProject-ChurnPrediction/spoofed_commit_check/c328697e9c8df658b8a965379ce54185e4384745" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
+  <include-fragment src="/pik1989/MLProject-ChurnPrediction/contributors/main/first_telc.csv" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
+
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
+
+
+
+
+
+
+
+
   
-  <div class="Box-header Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-hovercard-type="user" data-hovercard-url="/users/pik1989/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/pik1989"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/34673684?s=48&amp;v=4" width="24" height="24" alt="@pik1989" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/pik1989/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/pik1989">pik1989</a>
-
-              <span class="markdown-title">
-                <a data-pjax="true" title="Update README.md" class="Link--secondary" href="/pik1989/MLProject-ChurnPrediction/commit/c328697e9c8df658b8a965379ce54185e4384745">Update README.md</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/pik1989/MLProject-ChurnPrediction/commit/c328697e9c8df658b8a965379ce54185e4384745/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
-        </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/pik1989/MLProject-ChurnPrediction/commit/c328697e9c8df658b8a965379ce54185e4384745" data-pjax>c328697</a>
-            <span itemprop="dateModified"><relative-time datetime="2021-05-09T16:27:06Z" class="no-wrap">May 9, 2021</relative-time></span>
-          </span>
-
-          <a data-pjax href="/pik1989/MLProject-ChurnPrediction/commits/main/README.md" class="ml-3 no-wrap Link--primary no-underline">
-            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
-        </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
-</svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/pik1989/MLProject-ChurnPrediction/contributors-list/main/README.md" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-</div>
-
-
-
-
-
-
-
-
-    <readme-toc>
-
     <div data-target="readme-toc.content" class="Box mt-3 position-relative">
       
   <div
-    class="Box-header js-blob-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    style="position: sticky; z-index: 1;"
+    class="Box-header js-blob-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
+    
   >
-
-      <details
-  data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:326607132,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}"
-  data-menu-hydro-click-hmac="987af3737760c40838cd5fee02300334aab592a87abccb9090cbad6bb24851c3"
-  class="dropdown details-reset details-overlay"
->
-  <summary
-    class="btn btn-octicon m-0 mr-2 p-2"
-    aria-haspopup="true"
-    aria-label="Table of Contents">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
-    <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
-</svg>
-  </summary>
-
-
-  <details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
-
-        <div class="SelectMenu-filter">
-          <input
-            class="SelectMenu-input form-control js-filterable-field"
-            id="toc-filter-field"
-            type="text"
-            autocomplete="off"
-            spellcheck="false"
-            autofocus
-            placeholder="Filter headings"
-            aria-label="Filter headings">
-        </div>
-
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:326607132,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4cf5e3a39a8f0aad0a78e79080a333b09e0b23c0a80ce6666694e4cb0defa66d" href="#customer-retention">Customer Retention</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:326607132,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4cf5e3a39a8f0aad0a78e79080a333b09e0b23c0a80ce6666694e4cb0defa66d" href="#-detailed-session-on-eda"><g-emoji class="g-emoji" alias="red_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png">🔴</g-emoji> Detailed Session on EDA:</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:326607132,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4cf5e3a39a8f0aad0a78e79080a333b09e0b23c0a80ce6666694e4cb0defa66d" href="#-one-of-my-previous-sessions-on-eda-model-building--model-deployment"><g-emoji class="g-emoji" alias="red_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png">🔴</g-emoji> One of my previous Sessions on EDA, Model Building &amp; Model Deployment:</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:326607132,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4cf5e3a39a8f0aad0a78e79080a333b09e0b23c0a80ce6666694e4cb0defa66d" href="#-what-is-customer-churning-"><g-emoji class="g-emoji" alias="red_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png">🔴</g-emoji> What is Customer Churning ?</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:326607132,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4cf5e3a39a8f0aad0a78e79080a333b09e0b23c0a80ce6666694e4cb0defa66d" href="#-what-are-the-different-churn-scenarios-"><g-emoji class="g-emoji" alias="red_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png">🔴</g-emoji> What are the different Churn Scenarios ?</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:326607132,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4cf5e3a39a8f0aad0a78e79080a333b09e0b23c0a80ce6666694e4cb0defa66d" href="#-decision-cycle-of-a-subscriber-"><g-emoji class="g-emoji" alias="red_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png">🔴</g-emoji> Decision Cycle of a Subscriber ?</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:326607132,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4cf5e3a39a8f0aad0a78e79080a333b09e0b23c0a80ce6666694e4cb0defa66d" href="#-what-are-the-different-churn-segments-"><g-emoji class="g-emoji" alias="red_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png">🔴</g-emoji> What are the different Churn Segments ?</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:326607132,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4cf5e3a39a8f0aad0a78e79080a333b09e0b23c0a80ce6666694e4cb0defa66d" href="#-solution-overview"><g-emoji class="g-emoji" alias="red_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png">🔴</g-emoji> Solution Overview</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:326607132,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4cf5e3a39a8f0aad0a78e79080a333b09e0b23c0a80ce6666694e4cb0defa66d" href="#-for-eda-please-refer-to--churn-analysis---edaipynb"><g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢</g-emoji> For EDA, please refer to : Churn Analysis - EDA.ipynb</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:326607132,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4cf5e3a39a8f0aad0a78e79080a333b09e0b23c0a80ce6666694e4cb0defa66d" href="#-for-model-building-please-refer-to-churn-analysis---model-buildingipynb"><g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢</g-emoji> For Model Building, please refer to: Churn Analysis - Model Building.ipynb</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:326607132,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4cf5e3a39a8f0aad0a78e79080a333b09e0b23c0a80ce6666694e4cb0defa66d" href="#-for-model-deployment-please-refer-to-apppy"><g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢</g-emoji> For Model Deployment, please refer to app.py</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:326607132,&quot;originating_url&quot;:&quot;https://github.com/pik1989/MLProject-ChurnPrediction/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4cf5e3a39a8f0aad0a78e79080a333b09e0b23c0a80ce6666694e4cb0defa66d" href="#-creating-the-flask-api"><g-emoji class="g-emoji" alias="large_blue_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f535.png">🔵</g-emoji> Creating the flask API</a>
-      </div>
-    </div>
-  </details-menu>
-</details>
 
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      81 lines (50 sloc)
+      76 lines (76 sloc)
       <span class="file-info-divider"></span>
-    2.75 KB
+    9.26 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-      <a href="/pik1989/MLProject-ChurnPrediction/blob/main/README.md?plain=1" data-permalink-href="/pik1989/MLProject-ChurnPrediction/blob/c328697e9c8df658b8a965379ce54185e4384745/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-</a>      <a href="/pik1989/MLProject-ChurnPrediction/blob/main/README.md" data-permalink-href="/pik1989/MLProject-ChurnPrediction/blob/c328697e9c8df658b8a965379ce54185e4384745/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-        <a data-permalink-href="/pik1989/MLProject-ChurnPrediction/raw/c328697e9c8df658b8a965379ce54185e4384745/README.md" href="/pik1989/MLProject-ChurnPrediction/raw/main/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/pik1989/MLProject-ChurnPrediction/blame/c328697e9c8df658b8a965379ce54185e4384745/README.md" href="/pik1989/MLProject-ChurnPrediction/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/pik1989/MLProject-ChurnPrediction/raw/c328697e9c8df658b8a965379ce54185e4384745/first_telc.csv" href="/pik1989/MLProject-ChurnPrediction/raw/main/first_telc.csv" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/pik1989/MLProject-ChurnPrediction/blame/c328697e9c8df658b8a965379ce54185e4384745/first_telc.csv" href="/pik1989/MLProject-ChurnPrediction/blame/main/first_telc.csv" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/pik1989/MLProject-ChurnPrediction/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uXDDkkQFC1RDujBTwlm-blnQiCnubx0hc4RiRyo-bI9OiFDNRBFLMAVz-nxlSt2CJeqK4rQaiHPqa9Id5A24KQ" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/pik1989/MLProject-ChurnPrediction/edit/main/first_telc.csv" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Y-CpnXhAmEmmkh_Cl_OA8FqxdPpajd4TqXknRu1AzTd1EoTajo67mN6pYYRc_CdOORpn57BAMbd6q-ovr0scXQ" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -1439,7 +1318,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/pik1989/MLProject-ChurnPrediction/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MmS2fPUmX3VCazqrbWyKxMcpsc6kfn0n7HrrAOL-VGHFnCUj9TIfEQSi8ITKf-kouxOzBf4L6HV1lVtaLM2Axw" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/pik1989/MLProject-ChurnPrediction/edit/main/first_telc.csv" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YPNY8x7XZ6fffae49-5_PxJdl_8BRQkHvC-dV-A2IKd2AXW06BlEdqdG2f484diBcfaE4uuI5qNv_VA-oj3xzQ" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -1470,7 +1349,7 @@
     <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
       <details class="dropdown details-reset details-overlay d-inline-block">
         <summary
-          class="js-blob-dropdown-click btn-octicon p-2"
+          class="js-blob-dropdown-click btn-octicon"
           aria-haspopup="true"
           aria-label="possible actions"
           data-test-selector="small-screen-more-options"
@@ -1490,14 +1369,14 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/pik1989/MLProject-ChurnPrediction/raw/main/README.md">
+            <a class="dropdown-item" href="/pik1989/MLProject-ChurnPrediction/raw/main/first_telc.csv">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/pik1989/MLProject-ChurnPrediction/blame/main/README.md">
+              <a class="dropdown-item" href="/pik1989/MLProject-ChurnPrediction/blame/main/first_telc.csv">
                 View blame
               </a>
             </li>
@@ -1508,60 +1387,1801 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-customer-retention" class="anchor" aria-hidden="true" href="#customer-retention"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Customer Retention</h1>
-<h2 dir="auto"><a id="user-content--detailed-session-on-eda" class="anchor" aria-hidden="true" href="#-detailed-session-on-eda"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="red_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png">🔴</g-emoji> Detailed Session on EDA:</h2>
-<p dir="auto"><a href="https://www.youtube.com/watch?v=baL7OrGWlxs" rel="nofollow"><img src="https://user-images.githubusercontent.com/34673684/117579611-49cd5880-b126-11eb-9e2b-ef865c090808.png" alt="Alt text" style="max-width: 100%;"></a></p>
-<h2 dir="auto"><a id="user-content--one-of-my-previous-sessions-on-eda-model-building--model-deployment" class="anchor" aria-hidden="true" href="#-one-of-my-previous-sessions-on-eda-model-building--model-deployment"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="red_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png">🔴</g-emoji> One of my previous Sessions on EDA, Model Building &amp; Model Deployment:</h2>
-<p dir="auto"><a href="https://www.youtube.com/watch?v=GVECbcKUio4" rel="nofollow"><img src="https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/CC.JPG" alt="Alt text" style="max-width: 100%;"></a></p>
-<h2 dir="auto"><a id="user-content--what-is-customer-churning-" class="anchor" aria-hidden="true" href="#-what-is-customer-churning-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="red_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png">🔴</g-emoji> What is Customer Churning ?</h2>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco1.JPG"><img src="https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco1.JPG" alt="Customer Retention" style="max-width: 100%;"></a></p>
-<h2 dir="auto"><a id="user-content--what-are-the-different-churn-scenarios-" class="anchor" aria-hidden="true" href="#-what-are-the-different-churn-scenarios-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="red_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png">🔴</g-emoji> What are the different Churn Scenarios ?</h2>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco2.JPG"><img src="https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco2.JPG" alt="Churn Scenarios" style="max-width: 100%;"></a></p>
-<h2 dir="auto"><a id="user-content--decision-cycle-of-a-subscriber-" class="anchor" aria-hidden="true" href="#-decision-cycle-of-a-subscriber-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="red_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png">🔴</g-emoji> Decision Cycle of a Subscriber ?</h2>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco3.JPG"><img src="https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco3.JPG" alt="Decision Cycle" style="max-width: 100%;"></a></p>
-<h2 dir="auto"><a id="user-content--what-are-the-different-churn-segments-" class="anchor" aria-hidden="true" href="#-what-are-the-different-churn-segments-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="red_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png">🔴</g-emoji> What are the different Churn Segments ?</h2>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco4.JPG"><img src="https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco4.JPG" alt="Churn Segments" style="max-width: 100%;"></a></p>
-<h2 dir="auto"><a id="user-content--solution-overview" class="anchor" aria-hidden="true" href="#-solution-overview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="red_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png">🔴</g-emoji> Solution Overview</h2>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco5.JPG"><img src="https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco5.JPG" alt="Solution" style="max-width: 100%;"></a></p>
-<p dir="auto">In this repository, we have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and I have used them wisely to create a model, and lately, have deployed the model.</p>
-<h3 dir="auto"><a id="user-content--for-eda-please-refer-to--churn-analysis---edaipynb" class="anchor" aria-hidden="true" href="#-for-eda-please-refer-to--churn-analysis---edaipynb"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢</g-emoji> For EDA, please refer to : Churn Analysis - EDA.ipynb</h3>
-<h3 dir="auto"><a id="user-content--for-model-building-please-refer-to-churn-analysis---model-buildingipynb" class="anchor" aria-hidden="true" href="#-for-model-building-please-refer-to-churn-analysis---model-buildingipynb"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢</g-emoji> For Model Building, please refer to: Churn Analysis - Model Building.ipynb</h3>
-<h3 dir="auto"><a id="user-content--for-model-deployment-please-refer-to-apppy" class="anchor" aria-hidden="true" href="#-for-model-deployment-please-refer-to-apppy"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢</g-emoji> For Model Deployment, please refer to app.py</h3>
-<h3 dir="auto"><a id="user-content--creating-the-flask-api" class="anchor" aria-hidden="true" href="#-creating-the-flask-api"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="large_blue_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f535.png">🔵</g-emoji> Creating the flask API</h3>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="app = Flask(&quot;__name__&quot;)"><pre class="notranslate"><code>app = Flask("__name__")
-</code></pre></div>
-<p dir="auto">The loadPage method calls our home.html.</p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@app.route(&quot;/&quot;)
-def loadPage():
-	return render_template('home.html', query=&quot;&quot;)"><pre class="notranslate"><code>@app.route("/")
-def loadPage():
-	return render_template('home.html', query="")
-</code></pre></div>
-<p dir="auto">The predict method is our POST method, which is basically called when we pass all the inputs from our front end and click SUBMIT.</p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@app.route(&quot;/&quot;, methods=['POST'])
-def predict():"><pre class="notranslate"><code>@app.route("/", methods=['POST'])
-def predict():
-</code></pre></div>
-<p dir="auto">The run() method of Flask class runs the application on the local development server.</p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="app.run()"><pre class="notranslate"><code>app.run()
-</code></pre></div>
-<p dir="auto">Yay, our model is ready, let’s test our bot.
-The above given Python script is executed from Python shell.</p>
-<p dir="auto">Go to Anaconda Prompt, and run the below query.</p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="python app.py"><pre class="notranslate"><code>python app.py
-</code></pre></div>
-<p dir="auto">Below message in Python shell is seen, which indicates that our App is now hosted at <a href="http://127.0.0.1:5000/" rel="nofollow">http://127.0.0.1:5000/</a> or localhost:5000</p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)"><pre class="notranslate"><code>* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-</code></pre></div>
-<p dir="auto">HERE'S HOW OUR FRONTEND LOOKS LIKE:</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco6.JPG"><img src="https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco6.JPG" alt="Customer Retention" style="max-width: 100%;"></a></p>
-</article>
+      
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-csv  gist-border-0">
+
+        <div class="blob-interaction-bar">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search">
+    <path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path>
+</svg>
+  <input type="text" name="filter" class="form-control js-csv-filter-field blob-filter" autocapitalize="off"
+         placeholder="Search this file…" aria-label="Search this file…">
+</div>
+
+  <div class="markdown-body js-check-bidi" data-line-alert="before" data-hpc>
+    <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+    <table class="js-csv-data csv-data js-file-line-container">
+      <thead>
+        <tr id="LC1" class="js-file-line">
+          <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+            <th></th>
+            <th>gender</th>
+            <th>SeniorCitizen</th>
+            <th>Partner</th>
+            <th>Dependents</th>
+            <th>tenure</th>
+            <th>PhoneService</th>
+            <th>MultipleLines</th>
+            <th>InternetService</th>
+            <th>OnlineSecurity</th>
+            <th>OnlineBackup</th>
+            <th>DeviceProtection</th>
+            <th>TechSupport</th>
+            <th>StreamingTV</th>
+            <th>StreamingMovies</th>
+            <th>Contract</th>
+            <th>PaperlessBilling</th>
+            <th>PaymentMethod</th>
+            <th>MonthlyCharges</th>
+            <th>TotalCharges</th>
+        </tr>
+      </thead>
+      <tbody>
+          <tr id="LC2" class="js-file-line">
+            <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+              <td>0</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>1</td>
+              <td>No</td>
+              <td>No phone service</td>
+              <td>DSL</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>29.85</td>
+              <td>29.85</td>
+          </tr>
+          <tr id="LC3" class="js-file-line">
+            <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+              <td>1</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>34</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>DSL</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>One year</td>
+              <td>No</td>
+              <td>Mailed check</td>
+              <td>56.95</td>
+              <td>1889.5</td>
+          </tr>
+          <tr id="LC4" class="js-file-line">
+            <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+              <td>3</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>45</td>
+              <td>No</td>
+              <td>No phone service</td>
+              <td>DSL</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>One year</td>
+              <td>No</td>
+              <td>Bank transfer (automatic)</td>
+              <td>42.3</td>
+              <td>1840.75</td>
+          </tr>
+          <tr id="LC5" class="js-file-line">
+            <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+              <td>6</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>22</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Credit card (automatic)</td>
+              <td>89.1</td>
+              <td>1949.4</td>
+          </tr>
+          <tr id="LC6" class="js-file-line">
+            <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+              <td>11</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>16</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>Two year</td>
+              <td>No</td>
+              <td>Credit card (automatic)</td>
+              <td>18.95</td>
+              <td>326.8</td>
+          </tr>
+          <tr id="LC7" class="js-file-line">
+            <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+              <td>5</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>8</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>99.65</td>
+              <td>820.5</td>
+          </tr>
+          <tr id="LC8" class="js-file-line">
+            <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+              <td>4</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>2</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>70.7</td>
+              <td>151.65</td>
+          </tr>
+          <tr id="LC9" class="js-file-line">
+            <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+              <td>2</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>2</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>DSL</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Mailed check</td>
+              <td>53.85</td>
+              <td>108.15</td>
+          </tr>
+          <tr id="LC10" class="js-file-line">
+            <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+              <td>7</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>10</td>
+              <td>No</td>
+              <td>No phone service</td>
+              <td>DSL</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>No</td>
+              <td>Mailed check</td>
+              <td>29.75</td>
+              <td>301.9</td>
+          </tr>
+          <tr id="LC11" class="js-file-line">
+            <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+              <td>8</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>28</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>104.8</td>
+              <td>3046.05</td>
+          </tr>
+          <tr id="LC12" class="js-file-line">
+            <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+              <td>9</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>62</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>DSL</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>One year</td>
+              <td>No</td>
+              <td>Bank transfer (automatic)</td>
+              <td>56.15</td>
+              <td>3487.95</td>
+          </tr>
+          <tr id="LC13" class="js-file-line">
+            <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+              <td>10</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>13</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>DSL</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Mailed check</td>
+              <td>49.95</td>
+              <td>587.45</td>
+          </tr>
+          <tr id="LC14" class="js-file-line">
+            <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+              <td>12</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>58</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>One year</td>
+              <td>No</td>
+              <td>Credit card (automatic)</td>
+              <td>100.35</td>
+              <td>5681.1</td>
+          </tr>
+          <tr id="LC15" class="js-file-line">
+            <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+              <td>13</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>49</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Bank transfer (automatic)</td>
+              <td>103.7</td>
+              <td>5036.3</td>
+          </tr>
+          <tr id="LC16" class="js-file-line">
+            <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+              <td>14</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>25</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Fiber optic</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>105.5</td>
+              <td>2686.05</td>
+          </tr>
+          <tr id="LC17" class="js-file-line">
+            <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+              <td>15</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>69</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Two year</td>
+              <td>No</td>
+              <td>Credit card (automatic)</td>
+              <td>113.25</td>
+              <td>7895.15</td>
+          </tr>
+          <tr id="LC18" class="js-file-line">
+            <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+              <td>16</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>52</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>One year</td>
+              <td>No</td>
+              <td>Mailed check</td>
+              <td>20.65</td>
+              <td>1022.95</td>
+          </tr>
+          <tr id="LC19" class="js-file-line">
+            <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+              <td>17</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>71</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Two year</td>
+              <td>No</td>
+              <td>Bank transfer (automatic)</td>
+              <td>106.7</td>
+              <td>7382.25</td>
+          </tr>
+          <tr id="LC20" class="js-file-line">
+            <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+              <td>19</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>21</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>90.05</td>
+              <td>1862.9</td>
+          </tr>
+          <tr id="LC21" class="js-file-line">
+            <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+              <td>21</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>12</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>One year</td>
+              <td>No</td>
+              <td>Bank transfer (automatic)</td>
+              <td>19.8</td>
+              <td>202.25</td>
+          </tr>
+          <tr id="LC22" class="js-file-line">
+            <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+              <td>25</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>30</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>DSL</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Bank transfer (automatic)</td>
+              <td>55.3</td>
+              <td>1530.6</td>
+          </tr>
+          <tr id="LC23" class="js-file-line">
+            <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+              <td>26</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>47</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>99.35</td>
+              <td>4749.15</td>
+          </tr>
+          <tr id="LC24" class="js-file-line">
+            <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+              <td>28</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>72</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>DSL</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Two year</td>
+              <td>Yes</td>
+              <td>Credit card (automatic)</td>
+              <td>90.25</td>
+              <td>6369.45</td>
+          </tr>
+          <tr id="LC25" class="js-file-line">
+            <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+              <td>29</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>17</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>DSL</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Mailed check</td>
+              <td>64.7</td>
+              <td>1093.1</td>
+          </tr>
+          <tr id="LC26" class="js-file-line">
+            <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+              <td>32</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>27</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>DSL</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>One year</td>
+              <td>No</td>
+              <td>Mailed check</td>
+              <td>66.15</td>
+              <td>1874.45</td>
+          </tr>
+          <tr id="LC27" class="js-file-line">
+            <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+              <td>36</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>5</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>69.7</td>
+              <td>316.9</td>
+          </tr>
+          <tr id="LC28" class="js-file-line">
+            <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+              <td>37</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>46</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Credit card (automatic)</td>
+              <td>74.8</td>
+              <td>3548.3</td>
+          </tr>
+          <tr id="LC29" class="js-file-line">
+            <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+              <td>39</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>11</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Bank transfer (automatic)</td>
+              <td>97.85</td>
+              <td>1105.4</td>
+          </tr>
+          <tr id="LC30" class="js-file-line">
+            <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+              <td>41</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>70</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>DSL</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Two year</td>
+              <td>Yes</td>
+              <td>Credit card (automatic)</td>
+              <td>69.2</td>
+              <td>4872.35</td>
+          </tr>
+          <tr id="LC31" class="js-file-line">
+            <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+              <td>43</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>63</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>DSL</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Two year</td>
+              <td>Yes</td>
+              <td>Credit card (automatic)</td>
+              <td>79.85</td>
+              <td>4861.45</td>
+          </tr>
+          <tr id="LC32" class="js-file-line">
+            <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+              <td>50</td>
+              <td>Female</td>
+              <td>1</td>
+              <td>No</td>
+              <td>No</td>
+              <td>43</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>90.25</td>
+              <td>3838.75</td>
+          </tr>
+          <tr id="LC33" class="js-file-line">
+            <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+              <td>51</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>15</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Fiber optic</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Credit card (automatic)</td>
+              <td>99.1</td>
+              <td>1426.4</td>
+          </tr>
+          <tr id="LC34" class="js-file-line">
+            <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+              <td>54</td>
+              <td>Female</td>
+              <td>1</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>60</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>DSL</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>One year</td>
+              <td>Yes</td>
+              <td>Credit card (automatic)</td>
+              <td>74.85</td>
+              <td>4456.35</td>
+          </tr>
+          <tr id="LC35" class="js-file-line">
+            <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+              <td>55</td>
+              <td>Male</td>
+              <td>1</td>
+              <td>No</td>
+              <td>No</td>
+              <td>18</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>95.45</td>
+              <td>1752.55</td>
+          </tr>
+          <tr id="LC36" class="js-file-line">
+            <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+              <td>57</td>
+              <td>Male</td>
+              <td>1</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>66</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>One year</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>108.45</td>
+              <td>7076.35</td>
+          </tr>
+          <tr id="LC37" class="js-file-line">
+            <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+              <td>64</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>9</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Month-to-month</td>
+              <td>No</td>
+              <td>Electronic check</td>
+              <td>94.4</td>
+              <td>857.25</td>
+          </tr>
+          <tr id="LC38" class="js-file-line">
+            <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+              <td>65</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>3</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>DSL</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>75.3</td>
+              <td>244.1</td>
+          </tr>
+          <tr id="LC39" class="js-file-line">
+            <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+              <td>67</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>31</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>DSL</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Two year</td>
+              <td>No</td>
+              <td>Mailed check</td>
+              <td>79.2</td>
+              <td>2497.2</td>
+          </tr>
+          <tr id="LC40" class="js-file-line">
+            <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+              <td>68</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>50</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>Two year</td>
+              <td>No</td>
+              <td>Bank transfer (automatic)</td>
+              <td>20.15</td>
+              <td>930.9</td>
+          </tr>
+          <tr id="LC41" class="js-file-line">
+            <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+              <td>72</td>
+              <td>Male</td>
+              <td>1</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>64</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Two year</td>
+              <td>Yes</td>
+              <td>Bank transfer (automatic)</td>
+              <td>111.6</td>
+              <td>7099</td>
+          </tr>
+          <tr id="LC42" class="js-file-line">
+            <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+              <td>75</td>
+              <td>Female</td>
+              <td>1</td>
+              <td>No</td>
+              <td>No</td>
+              <td>56</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>One year</td>
+              <td>No</td>
+              <td>Electronic check</td>
+              <td>110.5</td>
+              <td>6139.5</td>
+          </tr>
+          <tr id="LC43" class="js-file-line">
+            <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+              <td>82</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>7</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Bank transfer (automatic)</td>
+              <td>75.15</td>
+              <td>496.9</td>
+          </tr>
+          <tr id="LC44" class="js-file-line">
+            <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+              <td>83</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>42</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Bank transfer (automatic)</td>
+              <td>103.8</td>
+              <td>4327.5</td>
+          </tr>
+          <tr id="LC45" class="js-file-line">
+            <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+              <td>86</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>35</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>DSL</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>One year</td>
+              <td>Yes</td>
+              <td>Bank transfer (automatic)</td>
+              <td>62.15</td>
+              <td>2215.45</td>
+          </tr>
+          <tr id="LC46" class="js-file-line">
+            <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+              <td>87</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>48</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>Two year</td>
+              <td>No</td>
+              <td>Bank transfer (automatic)</td>
+              <td>20.65</td>
+              <td>1057</td>
+          </tr>
+          <tr id="LC47" class="js-file-line">
+            <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+              <td>89</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>29</td>
+              <td>No</td>
+              <td>No phone service</td>
+              <td>DSL</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>No</td>
+              <td>Mailed check</td>
+              <td>33.75</td>
+              <td>1009.25</td>
+          </tr>
+          <tr id="LC48" class="js-file-line">
+            <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+              <td>93</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>65</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Credit card (automatic)</td>
+              <td>111.05</td>
+              <td>7107</td>
+          </tr>
+          <tr id="LC49" class="js-file-line">
+            <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+              <td>102</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>38</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>One year</td>
+              <td>No</td>
+              <td>Bank transfer (automatic)</td>
+              <td>95.0</td>
+              <td>3605.6</td>
+          </tr>
+          <tr id="LC50" class="js-file-line">
+            <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+              <td>104</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>68</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Two year</td>
+              <td>Yes</td>
+              <td>Bank transfer (automatic)</td>
+              <td>110.0</td>
+              <td>7611.85</td>
+          </tr>
+          <tr id="LC51" class="js-file-line">
+            <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+              <td>107</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>32</td>
+              <td>No</td>
+              <td>No phone service</td>
+              <td>DSL</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>One year</td>
+              <td>No</td>
+              <td>Mailed check</td>
+              <td>30.15</td>
+              <td>927.65</td>
+          </tr>
+          <tr id="LC52" class="js-file-line">
+            <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+              <td>110</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>55</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>96.75</td>
+              <td>5238.9</td>
+          </tr>
+          <tr id="LC53" class="js-file-line">
+            <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+              <td>113</td>
+              <td>Female</td>
+              <td>1</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>37</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>76.5</td>
+              <td>2868.15</td>
+          </tr>
+          <tr id="LC54" class="js-file-line">
+            <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+              <td>116</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>36</td>
+              <td>No</td>
+              <td>No phone service</td>
+              <td>DSL</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Two year</td>
+              <td>No</td>
+              <td>Bank transfer (automatic)</td>
+              <td>31.05</td>
+              <td>1126.35</td>
+          </tr>
+          <tr id="LC55" class="js-file-line">
+            <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+              <td>118</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>41</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>Two year</td>
+              <td>No</td>
+              <td>Mailed check</td>
+              <td>20.65</td>
+              <td>835.15</td>
+          </tr>
+          <tr id="LC56" class="js-file-line">
+            <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
+              <td>121</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>6</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>Month-to-month</td>
+              <td>No</td>
+              <td>Mailed check</td>
+              <td>20.7</td>
+              <td>112.75</td>
+          </tr>
+          <tr id="LC57" class="js-file-line">
+            <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
+              <td>124</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>4</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>Month-to-month</td>
+              <td>No</td>
+              <td>Mailed check</td>
+              <td>20.85</td>
+              <td>62.9</td>
+          </tr>
+          <tr id="LC58" class="js-file-line">
+            <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
+              <td>125</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>33</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Fiber optic</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Two year</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>88.95</td>
+              <td>3027.65</td>
+          </tr>
+          <tr id="LC59" class="js-file-line">
+            <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
+              <td>132</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>67</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>DSL</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Two year</td>
+              <td>No</td>
+              <td>Bank transfer (automatic)</td>
+              <td>50.55</td>
+              <td>3260.1</td>
+          </tr>
+          <tr id="LC60" class="js-file-line">
+            <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
+              <td>136</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>23</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Fiber optic</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Bank transfer (automatic)</td>
+              <td>75.0</td>
+              <td>1778.5</td>
+          </tr>
+          <tr id="LC61" class="js-file-line">
+            <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
+              <td>138</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>57</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>Two year</td>
+              <td>Yes</td>
+              <td>Mailed check</td>
+              <td>19.6</td>
+              <td>1170.55</td>
+          </tr>
+          <tr id="LC62" class="js-file-line">
+            <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
+              <td>142</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>61</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Two year</td>
+              <td>Yes</td>
+              <td>Bank transfer (automatic)</td>
+              <td>101.05</td>
+              <td>5971.25</td>
+          </tr>
+          <tr id="LC63" class="js-file-line">
+            <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
+              <td>155</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>14</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Bank transfer (automatic)</td>
+              <td>80.9</td>
+              <td>1152.8</td>
+          </tr>
+          <tr id="LC64" class="js-file-line">
+            <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
+              <td>161</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>20</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>No</td>
+              <td>Electronic check</td>
+              <td>82.4</td>
+              <td>1592.35</td>
+          </tr>
+          <tr id="LC65" class="js-file-line">
+            <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
+              <td>163</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>53</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>DSL</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Two year</td>
+              <td>Yes</td>
+              <td>Bank transfer (automatic)</td>
+              <td>73.9</td>
+              <td>3958.25</td>
+          </tr>
+          <tr id="LC66" class="js-file-line">
+            <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
+              <td>189</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>40</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>DSL</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>No</td>
+              <td>Credit card (automatic)</td>
+              <td>56.6</td>
+              <td>2379.1</td>
+          </tr>
+          <tr id="LC67" class="js-file-line">
+            <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
+              <td>194</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>59</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>Two year</td>
+              <td>No</td>
+              <td>Credit card (automatic)</td>
+              <td>19.3</td>
+              <td>1192.7</td>
+          </tr>
+          <tr id="LC68" class="js-file-line">
+            <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
+              <td>196</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>24</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>No internet service</td>
+              <td>Two year</td>
+              <td>Yes</td>
+              <td>Bank transfer (automatic)</td>
+              <td>24.1</td>
+              <td>587.4</td>
+          </tr>
+          <tr id="LC69" class="js-file-line">
+            <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
+              <td>204</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>44</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>No</td>
+              <td>Credit card (automatic)</td>
+              <td>68.85</td>
+              <td>2958.95</td>
+          </tr>
+          <tr id="LC70" class="js-file-line">
+            <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
+              <td>208</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>19</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Fiber optic</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>106.6</td>
+              <td>1934.45</td>
+          </tr>
+          <tr id="LC71" class="js-file-line">
+            <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
+              <td>230</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>54</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Fiber optic</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Two year</td>
+              <td>Yes</td>
+              <td>Credit card (automatic)</td>
+              <td>108.0</td>
+              <td>5760.65</td>
+          </tr>
+          <tr id="LC72" class="js-file-line">
+            <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
+              <td>250</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>51</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Fiber optic</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>One year</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>93.5</td>
+              <td>4619.55</td>
+          </tr>
+          <tr id="LC73" class="js-file-line">
+            <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
+              <td>435</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No</td>
+              <td>26</td>
+              <td>No</td>
+              <td>No phone service</td>
+              <td>DSL</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Credit card (automatic)</td>
+              <td>44.45</td>
+              <td>1183.8</td>
+          </tr>
+          <tr id="LC74" class="js-file-line">
+            <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
+              <td>488</td>
+              <td>Female</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>0</td>
+              <td>No</td>
+              <td>No phone service</td>
+              <td>DSL</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Two year</td>
+              <td>Yes</td>
+              <td>Bank transfer (automatic)</td>
+              <td>52.55</td>
+              <td> </td>
+          </tr>
+          <tr id="LC75" class="js-file-line">
+            <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
+              <td>546</td>
+              <td>Male</td>
+              <td>0</td>
+              <td>Yes</td>
+              <td>Yes</td>
+              <td>39</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Fiber optic</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Mailed check</td>
+              <td>86.3</td>
+              <td>3266</td>
+          </tr>
+          <tr id="LC76" class="js-file-line">
+            <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
+              <td>20</td>
+              <td>Male</td>
+              <td>1</td>
+              <td>No</td>
+              <td>No</td>
+              <td>1</td>
+              <td>No</td>
+              <td>No phone service</td>
+              <td>DSL</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>No</td>
+              <td>No</td>
+              <td>Yes</td>
+              <td>Month-to-month</td>
+              <td>Yes</td>
+              <td>Electronic check</td>
+              <td>39.65</td>
+              <td>39.65</td>
+          </tr>
+      </tbody>
+    </table>
   </div>
 
     </div>
 
-  </readme-toc>
+    </div>
+
 
   
 
